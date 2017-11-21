@@ -1,0 +1,23 @@
+{
+  "name": "my_react",
+  "version": "1.0.0",
+  "description": "This is a my react demo",
+  "main": "y",
+  "scripts": {
+    "test": "eslink"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakoujia/first-react-demo.git"
+  },
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "author": "zhulm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakoujia/first-react-demo/issues"
+  },
+  "homepage": "https://github.com/dakoujia/first-react-demo#readme"
+}
